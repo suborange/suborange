@@ -1,5 +1,5 @@
 # Hello friend 👋 I'm a special orange🍊 
-Really just a mass of flesh and bone who is obediant to the electrical signals bouncing around in my meaty, mushy skull. 
+Just a lost soul, swimming in a fish bowl, year after year.
 
 ### I am pursuing Computer Science💻 to hopefully become a professor👨‍🏫 to teach the subject. 
 I have over 15 years of professional experience in subjects like English🏁, Eating🍽, Procrastination⏳, Sleeping😴, Camping:evergreen_tree::fire:, and more! I have 0 professional computer science experience or really any other professional experience. I am no professional, but am completing a BS in CS and just do most work on my own (and begging others for help). 
