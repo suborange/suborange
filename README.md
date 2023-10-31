@@ -9,8 +9,8 @@ C++, C, C#, Java, JavaScript, Python, Assembly, HTML/CSS, MySQL, MongoDB, Swift,
 Music and Art, Electrical and Computer Engineering, Mathematics, Home Network, Neuroscience and Psychology, Chemistry and Material Sciences, Philosophy, Quantumn qrap, and Self-Sustainability. 
 ### Currently working on: 
 manual and free - hCaptcha auto-bypass : current project \
-:spider_web:website : soon to come. \
-giga website : need to setup initial website first \
+misc. :spider_web:website : Take a dive into [Quantum Computing](https://hw1.ebonavida0.repl.co/) \
+personal giga website : need to setup initial website first \
 soloar powered off grid website : will try to implement this along the way \
 tiny offline super-brain computer : you shall hopefully see someday, no idea if this is possible 
 
