@@ -12,7 +12,7 @@ manual and free - hCaptcha auto-bypass : current project \
 misc. :spider_web:website : Take a dive into [Quantum Computing](https://hw1.ebonavida0.repl.co/) \
 personal giga website : need to setup initial website first \
 soloar powered off grid website : will try to implement this along the way \
-tiny offline super-brain computer : you shall hopefully see someday, no idea if this is possible 
+tiny offline educational computer : you shall hopefully see someday, no idea if this is possible 
 
 ### Fun Facts 
 I can solve a Rubik's cube:ice_cube:! So fun!\
