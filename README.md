@@ -9,10 +9,14 @@ C++, C, C#, Java, JavaScript, Python, Assembly, HTML/CSS, MySQL, MongoDB, Swift,
 Music and Art, Electrical and Computer Engineering, Mathematics, Home Network, Neuroscience and Psychology, Chemistry and Material Sciences, Philosophy, Quantumn qrap, and Self-Sustainability. 
 ### Currently working on: 
 manual and free - hCaptcha auto-bypass : current project \
-misc. :spider_web:website : Take a dive into [Quantum Computing](https://hw1.ebonavida0.repl.co/) \
+misc. :spider_web:website : \
+Take a dive into [Quantum Computing](https://hw1.ebonavida0.repl.co/) \
+Can the digits of Pi move and solve a Rubik's cube? : [PiCube](https://suborange.github.io/pi_rubiks_cube/) \
 personal giga website : need to setup initial website first \
 soloar powered off grid website : will try to implement this along the way \
-tiny offline educational computer : you shall hopefully see someday, no idea if this is possible 
+tiny offline educational computer : have an extremely basic foundation so far
+Overwatch workshop : coming soon...
+
 
 ### Fun Facts 
 I can solve a Rubik's cube:ice_cube:! So fun!\
