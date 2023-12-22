@@ -2,9 +2,9 @@
 Just a lost soul, swimming in a fish bowl, year after year.
 
 ### I am pursuing Computer Science💻 to hopefully become a professor👨‍🏫 to teach the subject. 
-I have over 15 years of professional experience in subjects like English🏁, Eating🍽, Procrastination⏳, Sleeping😴, Camping:evergreen_tree::fire:, and more! I have 0 professional computer science experience or really any other professional experience. I am no professional, but am completing a BS in CS and just do most work on my own (and begging others for help). 
+I have over 15 years of professional experience in subjects like English🏁, Eating🍽, Procrastination⏳, Sleeping😴, Camping:evergreen_tree::fire:, and more! I have 0 professional computer science experience or really any other professional experience. I am no professional, but am completing a BS in CS and do most work on my own (and begging others for help). 
 ### Learning bits of: 
-C++, C, C#, Java, JavaScript, Python, Assembly, HTML/CSS, MySQL, MongoDB, Swift, 3D printing tech, Fusion 360, Solidworks, Unity, Unreal Engine, Linux distro's, FLStudio, Adobe suite, and Mandarin中文.
+C++, C, C#, Java,  HTML/CSS, JavaScript, Python, Assembly, MySQL, MongoDB, Swift, 3D printing tech, Fusion 360, Solidworks, Unity, Unreal Engine, Linux distro's, FLStudio, Adobe suite, and Mandarin中文.
 ### Additional intellectual interests: 
 Music and Art, Electrical and Computer Engineering, Mathematics, Home Network, Neuroscience and Psychology, Chemistry and Material Sciences, Philosophy, Quantumn qrap, and Self-Sustainability. 
 ### Currently working on: 
@@ -13,7 +13,7 @@ misc. :spider_web:website : \
 Take a dive into [Quantum Computing](https://hw1.ebonavida0.repl.co/) \
 Can the digits of Pi move and solve a Rubik's cube? : [PiCube](https://suborange.github.io/pi_rubiks_cube/) \
 personal giga website : need to setup initial website first \
-soloar powered off grid website : will try to implement this along the way \
+solar powered off grid website : will try to implement this along the way \
 tiny offline educational computer : have an extremely basic foundation so far
 Overwatch workshop : coming soon...
 
