@@ -19,11 +19,11 @@ Overwatch workshop : coming soon...
 
 
 ### Fun Facts 
-I can solve a Rubik's cube:ice_cube:! So fun!\
-I'm an Overwatch addict:video_game:! Omega fun!\
+I can solve a Rubik's cube :ice_cube:! So fun!\
+I'm an Overwatch addict :video_game:! Omega fun!\
 Combining those two facts, I made a virtual Rubik's cube within the game of Overwatch! (Ovewatch workshop mode)\
-I only drink water:potable_water:, so dont buy me any coffee:coffee: please. you can give me your moneies:money_mouth_face::money_with_wings::moneybag: here:(soon to come)\
-I'm a giant :notes:music:notes: head, give me some of your hidden gems 
+I only drink water :potable_water: , so dont buy me any coffee :coffee: please. you can give me your moneies :money_mouth_face: :money_with_wings: :moneybag: here:(soon to come)\
+I'm a giant :notes: music :notes: head, give me some of your hidden gems 
 <!--
 **suborange/suborange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
