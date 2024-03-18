@@ -11,7 +11,7 @@ Music and Art, Electrical and Computer Engineering, Mathematics, Home Network, N
 manual and free - hCaptcha auto-bypass : current project \
 misc. :spider_web:website : \
 Take a dive into [Quantum Computing](https://f078c5fa-37d6-4a6e-bb4d-5caf75a059c7-00-1fjb057zg9hkm.global.replit.dev/) \
-Can the digits of Pi move and solve a Rubik's cube? : [PiCube](https://suborange.github.io/pi_rubiks_cube/) \
+Can the digits of Pi move and solve a Rubik's cube? : [PiCube Stream (24/7)]([https://suborange.github.io/pi_rubiks_cube/](https://www.twitch.tv/solvingsequence)) \
 personal giga website : need to setup initial website first \
 solar powered off grid website : will try to implement this along the way \
 tiny offline educational computer : have an extremely basic foundation so far \
