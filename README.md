@@ -10,8 +10,8 @@ Music and Art, Electrical and Computer Engineering, Mathematics, Home Network, N
 ### Currently working on: 
 manual and free - hCaptcha auto-bypass : current project \
 misc. :spider_web:website : \
-Take a dive into [Quantum Computing](https://f078c5fa-37d6-4a6e-bb4d-5caf75a059c7-00-1fjb057zg9hkm.global.replit.dev/) \
-Can the digits of Pi move and solve a Rubik's cube? : [PiCube Stream 24-7](https://www.twitch.tv/solvingsequence) \
+Take a dive into [Quantum Computing-link broken...](https://f078c5fa-37d6-4a6e-bb4d-5caf75a059c7-00-1fjb057zg9hkm.global.replit.dev/) \
+Can the digits of Pi move and solve a Rubik's cube? : [SolvingSequence Stream 24-7](https://www.twitch.tv/solvingsequence) \
 personal giga website : need to setup initial website first \
 solar powered off grid website : will try to implement this along the way \
 tiny offline educational computer : have an extremely basic foundation so far \
