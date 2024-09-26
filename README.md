@@ -5,8 +5,10 @@
 I have decades of professional experience in subjects like English, Eating🍽, Procrastination⏳, Sleeping😴, Camping :evergreen_tree: :fire: , and more! I use the Oxford comma and I have 0 professional computer science experience or really any other professional experience. I am no professional, but am completing a BS in CS and do most work on my own (and begging others for help). \
 ### Learning languages: 
 C++, C, C#, Java,  HTML/CSS, JavaScript, TypeScript, Python, x86 MASM, MySQL,  Swift, and Mandarin中文. \
-### Learning tech: Node.js, MongoDB, React, Express.js, Flask, Spring Boot, Android App. Dev., Apple App. Dev., P5.js, API's, Puppeteer, Selenium, 3D printing tech, Arduino, Raspberry Pi, Linux OS, Windows OS, MacOS \
-### Learning software: Fusion 360, SOLIDWORKS, UltiMaker Cura, Unity, Unreal Engine, FLStudio, Adobe suite, DaVinci Resolve, Wireshark, Postman, Streamer.bot, ocenaudio, rufus, VirtualBox, and Discord bots.
+### Learning tech: 
+Node.js, MongoDB, React, Express.js, Flask, Spring Boot, Android App. Dev., Apple App. Dev., P5.js, API's, Puppeteer, Selenium, 3D printing tech, Arduino, Raspberry Pi, Linux OS, Windows OS, MacOS \
+### Learning software: 
+Fusion 360, SOLIDWORKS, UltiMaker Cura, Unity, Unreal Engine, FLStudio, Adobe suite, DaVinci Resolve, Wireshark, Postman, Streamer.bot, ocenaudio, rufus, VirtualBox, and Discord bots.
 
 ### Incremental intellectual interests: 
 Music, Art, Electrical, Computer, and Mechanical Engineering, Mathematics, Home Networking, Neuroscience and Psychology, Chemistry and Material Sciences, Philosophy, Quantumn qrap, and Biodegradability and Self-Sustainability. \
