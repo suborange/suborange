@@ -13,7 +13,7 @@
 ### Incremental intellectual interests: 
 Music | Art | Electrical, Computer, and Mechanical Engineering | Mathematics | Home Networking | Neuroscience and Psychology | Chemistry and Material Sciences | Philosophy | Quantumn qrap | and Biodegradability and Self-Sustainability. 
 ### Currently working on: 
-| misc. :spider_web:website : Take a dive into Quantum Computing (link broke...thanks replit)
+| misc. :spider_web:website : Take a dive into Quantum Computing (link broke...thanks replit) \
 | Can the digits of Pi move and solve a Rubik's cube? : [SolvingSequence Stream 24-7](https://www.twitch.tv/solvingsequence) \
 | personal giga website : [Check it out here](https://glegoo.co/) - might take a minute to spin up from hosting service \
 | solar powered off grid website : will try to implement this along the way \
