@@ -17,7 +17,7 @@ Windows with VS C0de, and everything else...  | VM running Ubuntu with Ghostty, 
 Music | Art | Electrical, Computer, and Mechanical Engineering | Mathematics | Home Networking | Neuroscience and Psychology | Chemistry and Material Sciences | Philosophy | Quantumn qrap | and Biodegradability and Self-Sustainability. 
 ### Currently working on: 
 | App development for my current workplace revolving audio equipment (classified) \
-| personal giga website : [Check it out here](https://glegoo.co/) - might take a minute to spin up from hosting service \
+| Personal giga website: Check out [gleGoo.co](https://glegoo.co/) - might take a minute to spin up from hosting service \
 | Can the digits of Pi move and solve a Rubik's cube? : [SolvingSequence Stream 24-7](https://www.twitch.tv/solvingsequence) \
 | Enrollment Manager for local college: Gives faculty a tool to better keep track of course enrollment
 | misc. :spider_web:website : Take a dive into Quantum Computing (link broke...thanks replit) \
