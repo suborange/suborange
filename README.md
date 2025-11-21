@@ -18,7 +18,7 @@ Music | Art | Electrical, Computer, and Mechanical Engineering | Mathematics | H
 ### Currently working on: 
 | App development for my current workplace revolving audio equipment (classified) \
 | Personal giga website: Check out [gleGoo.co](https://glegoo.co/) - might take a minute to spin up from hosting service \
-| Can the digits of Pi move and solve a Rubik's cube? : [SolvingSequence Stream 24-7](https://www.twitch.tv/solvingsequence) \
+| Can the digits of Pi move and solve a Rubik's cube? : [SolvingSequence Stream]() \
 | Enrollment Manager for local college: Gives faculty a tool to better keep track of course enrollment
 | misc. :spider_web:website : Take a dive into Quantum Computing (link broke...thanks replit) \
 | Overwatch workshop : coming soon...
