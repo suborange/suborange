@@ -11,17 +11,15 @@ Windows with VS C0de, and everything else...  | VM running Ubuntu with Ghostty, 
 ### Learning tech: 
 | Node.js | MongoDB | React | Express.js | Flask | Spring Boot | Android App. Dev. | Apple App. Dev. | P5.js | API's | Puppeteer | Selenium | 3D printing tech | Arduino | Raspberry Pi | Linux OS | Windows OS | MacOS 
 ### Learning software: 
-| Fusion 360 | SOLIDWORKS | UltiMaker Cura | Unity | Unreal Engine | FLStudio | Adobe suite | DaVinci Resolve | Wireshark | Postman | Streamer.bot | ocenaudio | Rufus | VirtualBox | Discord bots (managing servers, not creating)
+| Fusion 360 | SOLIDWORKS | UltiMaker Cura | Unity | Unreal Engine | FLStudio | Adobe suite | DaVinci Resolve | Wireshark | Postman | Streamer.bot | ocenaudio | Rufus | VirtualBox 
 
 ### Incremental intellectual interests: 
-Music | Art | Electrical, Computer, and Mechanical Engineering | Mathematics | Home Networking | Neuroscience and Psychology | Chemistry and Material Sciences | Philosophy | Quantumn qrap | and Biodegradability and Self-Sustainability. 
+Music & Art | Electrical, Computer, and Mechanical Engineering | Mathematics | Home Networking | Neuroscience and Psychology | Chemistry and Material Sciences | Philosophy | Biodegradability and Self-Sustainability | Quantumn qrap 
 ### Currently working on: 
 | App development for my current workplace revolving audio equipment (classified) \
 | Personal giga website: Check out [gleGoo.co](https://glegoo.co/) - might take a minute to spin up from hosting service \
-| Can the digits of Pi move and solve a Rubik's cube? : [SolvingSequence Stream]() \
-| Enrollment Manager for local college: Gives faculty a tool to better keep track of course enrollment
-| misc. :spider_web:website : Take a dive into Quantum Computing (link broke...thanks replit) \
-| Overwatch workshop : coming soon...
+| Can the digits of Pi move and solve a Rubik's cube? : SolvingSequence Stream (currently on pause) \
+| Enrollment Manager for local college: Gives faculty a tool to better keep track of course enrollment \
 
 
 ### Fun Facts 
